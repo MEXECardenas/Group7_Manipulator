@@ -1,1 +1,1 @@
-# Group7_Manipulator
+# SCARA_MODERN_VARIANT_G7_MEXE_3202
