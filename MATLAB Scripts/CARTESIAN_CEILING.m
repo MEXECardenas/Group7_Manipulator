@@ -3,12 +3,14 @@ disp("Cartesian_Ceiling")
 syms a1 a2 a3 a4 d1 d2 d3
 
 %% Link Lengths
+
 a1 = 3;
 a2 = 5;
 a3 = 5;
 a4 = 3;
 
 %% Joint Variables
+
 d1 = 5;
 d2 = 5;
 d3 = 5;
