@@ -9,6 +9,7 @@ a2 = 10;
 a3 = 5;
 
 %% Joint Variables
+
 t1 = 0;
 t2 = 0;
 d3 = 5;
