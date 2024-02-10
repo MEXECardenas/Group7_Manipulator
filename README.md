@@ -1,7 +1,5 @@
 # SPHERICALV3_G7_Assignment_2024
 
-## Workspace for Robotics 2 Assignment 1
-
 ## Table of Contents
 - [Spherical Manipulator - Modern Variant](#-spherical-manipulator---modern-variant-)
 - [SCARA - PRR Variant](#-scara---prr-variant-)
