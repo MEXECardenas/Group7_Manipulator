@@ -10,6 +10,7 @@ a3 = 3;
 a4 = 3;
 
 %% Joint Variables
+
 d1 = 5;
 t2 = 0;
 t3 = 0;
