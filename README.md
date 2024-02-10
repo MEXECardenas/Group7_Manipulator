@@ -4,10 +4,9 @@
 
 ## Table of Contents
 - [Spherical Manipulator - Modern Variant](#sphericalmanipulator-modernvariant)
-- [SCARA - PRR Variant](#scara-prrvariant)
+- [SCARA - PRR Variant](#scara---prr-variant)
 - [Cartesian Manipulator in Ceiling](#cartesianmanipulatorinceiling)
-- [Group Members:](#groupmembers)
-<br>
+- [Group Members:](#group-members)
 <br>
 
 <h1 align="center"> SCARA - PRR VARIANT </h1> 
@@ -18,7 +17,8 @@
 <br>
 <br>
 
-## Group Members:
+
+### Group Members:
 - Alojado, Stephen Gabriel S.
 - Apostol, Jan Benedict
 - Cardenas, Sofia Bianca J.
