@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Spherical Manipulator - Modern Variant](#-spherical-manipulator---modern-variant-)
-- [SCARA - PRR Variant](#scara---prr-variant)
+- [SCARA - PRR Variant](#-scara---prr-variant-)
 - [Cartesian Manipulator in Ceiling](#cartesian-manipulator-in-ceiling)
 - [Group Members:](#group-members)
 <br>
