@@ -3,7 +3,7 @@
 ## Workspace for Robotics 2 Assignment 1
 
 ## Table of Contents
-- [Spherical Manipulator - Modern Variant](#spherical-manipulator-modern-variant)
+- [Spherical Manipulator - Modern Variant](#-spherical-manipulator---modern-variant-)
 - [SCARA - PRR Variant](#scara---prr-variant)
 - [Cartesian Manipulator in Ceiling](#cartesian-manipulator-in-ceiling)
 - [Group Members:](#group-members)
