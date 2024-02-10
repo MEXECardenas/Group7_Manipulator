@@ -25,8 +25,6 @@
 </p>
 <br>
 <br>
-<br>
-
 
 ### Group Members:
 - Alojado, Stephen Gabriel S.
