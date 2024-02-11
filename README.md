@@ -1,7 +1,7 @@
 # SPHERICAL_G7_Assignment_2024
 
 ## Table of Contents
-- [KINEMATIC DIAGRAM AND PARAMETRIC TABLE](#kinematic-diagram-and-parametric-table)
+- [KINEMATIC DIAGRAM AND PARAMETRIC TABLE](#-kinematic-diagram-and-parametric-table-)
   - [Spherical Manipulator - Modern Variant](#-spherical-manipulator---modern-variant-)
   - [SCARA - PRR Variant](#-scara---prr-variant-)
   - [Cartesian Manipulator in Ceiling](#-cartesian-manipulator-in-ceiling-)
