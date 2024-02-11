@@ -2,13 +2,13 @@
 
 ## Table of Contents
 - [KINEMATIC DIAGRAM AND PARAMETRIC TABLE](#-kinematic-diagram-and-parametric-table-)
-  - [Spherical Manipulator - Modern Variant](#-spherical-manipulator---modern-variant-)
-  - [SCARA - PRR Variant](#-scara---prr-variant-)
-  - [Cartesian Manipulator in Ceiling](#-cartesian-manipulator-in-ceiling-)
+  - [Spherical Manipulator (Modern Variant)](#-spherical-manipulator---modern-variant-)
+  - [SCARA (PRR Variant)](#-scara---prr-variant-)
+  - [Cartesian Manipulator (On Ceiling)](#-cartesian-manipulator-in-ceiling-)
 - [MECHANICAL MANIPULATOR FIGURES](#-mechanical-manipulator-figures-)
   - [Spherical Manipulator (Modern Variant)](#-spherical-manipulator-modern-variant-)
   - [SCARA (PRR Variant)](#-scara-prr-variant-)
-  - [Cartesian Manipulator (in Ceiling)](#-cartesian-manipulator-in-ceiling--1)
+  - [Cartesian Manipulator (On Ceiling)](#-cartesian-manipulator-in-ceiling--1)
 - [Group Members](#group-members)
 <br>
 
@@ -22,7 +22,7 @@
 <br>
 <br>
 
-<h1 align="center"> SCARA - PRR Variant </h1> 
+<h1 align="center"> SCARA (PRR Variant) </h1> 
 <p align="center">
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/2b17112a-ace9-4113-a031-193509753b05 alt=SCARA - PRR Variant (Kinematic Diagram and Parametric Table) width="800"/>
 </p>
