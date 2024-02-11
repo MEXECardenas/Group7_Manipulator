@@ -6,7 +6,7 @@
   - [SCARA - PRR Variant](#-scara---prr-variant-)
   - [Cartesian Manipulator in Ceiling](#-cartesian-manipulator-in-ceiling-)
 - [MECHANICAL MANIPULATOR FIGURES](#-mechanical-manipulator-figures-)
-  - [Spherical Manipulator (Modern Variant)](#-spherical-manipulator-(modern-variant)-)
+  - [Spherical Manipulator (Modern Variant)](#-spherical-manipulator-modern-variant-)
   - [SCARA (PRR Variant)](#-scara-(prr-variant)-)
   - [Cartesian Manipulator (in Ceiling)](#-cartesian-manipulator-(in-ceiling)-)
 - [Group Members:](#group-members)
