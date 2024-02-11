@@ -85,7 +85,6 @@
 
 
 
-
 ### Group Members:
 - Alojado, Stephen Gabriel S.
 - Apostol, Jan Benedict D.
