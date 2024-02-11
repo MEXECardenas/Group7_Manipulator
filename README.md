@@ -21,6 +21,7 @@
   <h1 align="center"> Figure 1.1 </h1>
 </p>
 <br>
+<br>
 
 <h1 align="center"> SCARA - PRR Variant </h1> 
 <p align="center">
