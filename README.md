@@ -72,7 +72,7 @@
 <div>
   <p align="center">
   <img src="image_url" alt="Image" style="width: 45%; float: left;">
-  <img src="gif_url" alt="GIF" style="width: 45%; float: right;">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/a9a0b089f3911adfcc915ab37b061117838ae024/Kinematic%20Diagrams%20with%20D-H%20Parametric%20Tables/Spherical%20Manipulator%20(Modern%20Variant).gif alt="GIF" style="width: 45%; float: right;">
   </p>
 </div>
 
