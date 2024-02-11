@@ -47,8 +47,8 @@
 <h1 align="center"> Spherical Manipulator (Modern Variant) </h1> 
 <div>
   <p align="center">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/0b0c965065028159e971cf92570e9344e1e41f4b/Kinematic%20Diagrams%20with%20D-H%20Parametric%20Tables/Spherical%20Manipulator%20-%20Modern%20Variant.png alt=Spherical Manipulator - Modern Variant style="width: 45%; float: left;">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/a9a0b089f3911adfcc915ab37b061117838ae024/Kinematic%20Diagrams%20with%20D-H%20Parametric%20Tables/Spherical%20Manipulator%20(Modern%20Variant).gif alt="GIF" style="width: 100%; float: right;">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/0b0c965065028159e971cf92570e9344e1e41f4b/Kinematic%20Diagrams%20with%20D-H%20Parametric%20Tables/Spherical%20Manipulator%20-%20Modern%20Variant.png alt=Spherical-Manipulator-Modern-Variant style="width: 45%; float: left;">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/a9a0b089f3911adfcc915ab37b061117838ae024/Kinematic%20Diagrams%20with%20D-H%20Parametric%20Tables/Spherical%20Manipulator%20(Modern%20Variant).gif alt=Spherical-Manipulator-(Modern-Variant) style="width: 100%; float: right;">
   </p>
 </div>
 <br>
@@ -57,7 +57,7 @@
 <h1 align="center"> SCARA (PRR Variant) </h1> 
 <div>
   <p align="center">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157594468/208e73c4-a255-4518-8098-c5f1b72f0035 alt=SCARA - PRR Variant="width: 45%; float: left;">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157594468/208e73c4-a255-4518-8098-c5f1b72f0035 alt=SCARA-PRR-Variant style="width: 45%; float: left;">
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/0e7b1edcb2eec78026c122a3413ebaa13a539a5a/Kinematic%20Diagrams%20with%20D-H%20Parametric%20Tables/SCARA%20Manipulator%20(PRR%20Variant).gif alt=giphy-2021-gifs-and-clips-animation-itsnicethat-02 style="width: 100%; float: right;">
   </p>
 </div>
