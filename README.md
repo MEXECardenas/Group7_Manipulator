@@ -64,7 +64,7 @@
 <br>
 
 
-<h1 align="center"> Cartesian Manipulator (in Ceiling) </h1> 
+<h1 align="center"> Cartesian Manipulator (On Ceiling) </h1> 
 <div>
   <p align="center">
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/938fc120-758a-42f4-88e9-f2113a0e898b alt=Cartesian Manipulator in Ceiling style="width: 40%; float: left;">
