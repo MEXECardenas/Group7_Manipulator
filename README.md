@@ -49,6 +49,7 @@
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/b9973401-9521-4823-9237-088b0f42252b alt=Spherical Manipulator - Modern Variant width="500"/>
 </p>
 <br>
+<br>
 
 <h1 align="center"> SCARA (PRR Variant) </h1> 
 <p align="center">
