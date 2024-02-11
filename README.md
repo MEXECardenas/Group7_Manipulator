@@ -52,7 +52,7 @@
 <br>
 
 
-<h1 align="center"> SCARA - PRR Variant </h1> 
+<h1 align="center"> SCARA (PRR Variant) </h1> 
 <div>
   <p align="center">
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157594468/208e73c4-a255-4518-8098-c5f1b72f0035 alt=SCARA-PRR-Variant style="width: 40%; float: left;">
