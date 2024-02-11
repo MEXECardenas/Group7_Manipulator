@@ -66,6 +66,13 @@
   </p>
 </div>
 
+<div>
+  <p align="center">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157594468/208e73c4-a255-4518-8098-c5f1b72f0035)
+ alt=SCARA - PRR Variant="width: 45%; float: left;">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/e2199d12-6189-4e14-b84e-843e7f93568b alt=giphy-2021-gifs-and-clips-animation-itsnicethat-02 style="width: 100%; float: right;">
+  </p>
+</div>
 
 <div>
   <p align="center">
