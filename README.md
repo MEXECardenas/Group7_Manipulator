@@ -5,6 +5,10 @@
   - [Spherical Manipulator - Modern Variant](#-spherical-manipulator---modern-variant-)
   - [SCARA - PRR Variant](#-scara---prr-variant-)
   - [Cartesian Manipulator in Ceiling](#-cartesian-manipulator-in-ceiling-)
+- [MECHANICAL MANIPULATOR FIGURES](#-mechanical-manipulator-figures-)
+  - [Spherical Manipulator (Modern Variant)](#-spherical-manipulator-(modern-variant)-)
+  - [SCARA (PRR Variant)](#-scara-(prr-variant)-)
+  - [Cartesian Manipulator (in Ceiling)](#-cartesian-manipulator-(in-ceiling)-)
 - [Group Members:](#group-members)
 <br>
 
@@ -13,22 +17,48 @@
 
 <h1 align="center"> Spherical Manipulator - Modern Variant </h1> 
 <p align="center">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/c7ac59ff-3a61-4627-b7bd-1f4405dc87a8 alt=Spherical Manipulator - Modern Variant (Kinematic Diagram and Parametric Table) width="900"/>
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/c7ac59ff-3a61-4627-b7bd-1f4405dc87a8 alt=Spherical Manipulator - Modern Variant (Kinematic Diagram and Parametric Table) width="800"/>
 </p>
 <br>
 
 <h1 align="center"> SCARA - PRR VARIANT </h1> 
 <p align="center">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/2b17112a-ace9-4113-a031-193509753b05 alt=SCARA - PRR Variant (Kinematic Diagram and Parametric Table) width="900"/>
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/2b17112a-ace9-4113-a031-193509753b05 alt=SCARA - PRR Variant (Kinematic Diagram and Parametric Table) width="800"/>
 </p>
 <br>
 
 <h1 align="center"> Cartesian Manipulator in Ceiling </h1> 
 <p align="center">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/3aa6197d-9088-4a12-aab9-6c515d0b0e07 alt=Cartesian Manipulator in Ceiling (Kinematic Diagram and Parametric Table) width="900"/>
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/3aa6197d-9088-4a12-aab9-6c515d0b0e07 alt=Cartesian Manipulator in Ceiling (Kinematic Diagram and Parametric Table) width="800"/>
+</p>
+<hr>
+<br>
+<br>
+<br>
+
+<h1 align="center"> MECHANICAL MANIPULATOR FIGURES </h1>
+<hr>
+
+<h1 align="center"> Spherical Manipulator (Modern Variant) </h1> 
+<p align="center">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/b9973401-9521-4823-9237-088b0f42252b alt=Spherical Manipulator - Modern Variant width="500"/>
 </p>
 <br>
+
+<h1 align="center"> SCARA (PRR Variant) </h1> 
+<p align="center">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/0be1d15e-2e4b-4930-a3d4-eace9366b656 alt=SCARA - PRR Variant width="500"/>
+</p>
 <br>
+
+<h1 align="center"> Cartesian Manipulator (in Ceiling) </h1> 
+<p align="center">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/938fc120-758a-42f4-88e9-f2113a0e898b alt=Cartesian Manipulator in Ceiling width="500"/>
+</p>
+<hr>
+<br>
+<br>
+
 
 ### Group Members:
 - Alojado, Stephen Gabriel S.
