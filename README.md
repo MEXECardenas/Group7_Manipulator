@@ -1,4 +1,4 @@
-# SPHERICALV3_G7_Assignment_2024
+# SPHERICAL_G7_Assignment_2024
 
 ## Table of Contents
 - [Spherical Manipulator - Modern Variant](#-spherical-manipulator---modern-variant-)
