@@ -9,7 +9,7 @@
   - [Spherical Manipulator (Modern Variant)](#-spherical-manipulator-modern-variant-)
   - [SCARA (PRR Variant)](#-scara-prr-variant-)
   - [Cartesian Manipulator (in Ceiling)](#-cartesian-manipulator-in-ceiling--1)
-- [Group Members:](#group-members)
+- [Group Members](#group-members)
 <br>
 
 <h1 align="center"> KINEMATIC DIAGRAM AND PARAMETRIC TABLE </h1>
@@ -60,7 +60,7 @@
 <br>
 
 
-### Group Members
+### Group Members:
 - Alojado, Stephen Gabriel S.
 - Apostol, Jan Benedict
 - Cardenas, Sofia Bianca J.
