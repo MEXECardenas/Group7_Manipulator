@@ -21,7 +21,7 @@
 </p>
 <br>
 
-<h1 align="center"> SCARA - PRR VARIANT </h1> 
+<h1 align="center"> SCARA - PRR Variant </h1> 
 <p align="center">
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/2b17112a-ace9-4113-a031-193509753b05 alt=SCARA - PRR Variant (Kinematic Diagram and Parametric Table) width="800"/>
 </p>
