@@ -52,39 +52,29 @@
   </p>
 </div>
 <br>
+<br>
 
 <h1 align="center"> SCARA (PRR Variant) </h1> 
-<p align="center">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/0be1d15e-2e4b-4930-a3d4-eace9366b656 alt=SCARA - PRR Variant width="500"/>
-   <h1 align="center"> Figure 2.2 </h1>
-</p>
+<div>
+  <p align="center">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157594468/208e73c4-a255-4518-8098-c5f1b72f0035 alt=SCARA - PRR Variant="width: 45%; float: left;">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/e2199d12-6189-4e14-b84e-843e7f93568b alt=giphy-2021-gifs-and-clips-animation-itsnicethat-02 style="width: 100%; float: right;">
+  </p>
+</div>
 <br>
 <br>
 
 <h1 align="center"> Cartesian Manipulator (in Ceiling) </h1> 
-<p align="center">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/938fc120-758a-42f4-88e9-f2113a0e898b alt=Cartesian Manipulator in Ceiling width="500"/>
-   <h1 align="center"> Figure 2.3 </h1>
-</p>
-<hr>
-<br>
-<br>
-
-
-
-<div>
-  <p align="center">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157594468/208e73c4-a255-4518-8098-c5f1b72f0035) alt=SCARA - PRR Variant="width: 45%; float: left;">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/e2199d12-6189-4e14-b84e-843e7f93568b alt=giphy-2021-gifs-and-clips-animation-itsnicethat-02 style="width: 100%; float: right;">
-  </p>
-</div>
-
 <div>
   <p align="center">
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/938fc120-758a-42f4-88e9-f2113a0e898b alt=Cartesian Manipulator in Ceiling style="width: 45%; float: left;">
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/e2199d12-6189-4e14-b84e-843e7f93568b alt=giphy-2021-gifs-and-clips-animation-itsnicethat-02 style="width: 100%; float: right;">
   </p>
 </div>
+<hr>
+<br>
+<br>
+
 
 
 
