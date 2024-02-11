@@ -29,7 +29,7 @@
 
 <h1 align="center"> Cartesian Manipulator in Ceiling </h1> 
 <p align="center">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/3aa6197d-9088-4a12-aab9-6c515d0b0e07 alt=Cartesian Manipulator in Ceiling (Kinematic Diagram and Parametric Table) width="800"/>
+  
 </p>
 <hr>
 <br>
