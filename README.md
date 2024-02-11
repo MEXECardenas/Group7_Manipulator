@@ -62,6 +62,7 @@
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157594468/e08a8baf-59d6-4664-aacf-3df9316757fc) alt=SCARA-Manipulator-(PRR-Variant) style="width: 100%; float: right;">
   </p>
 </div>
+<hr>
 <br>
 <br>
 
