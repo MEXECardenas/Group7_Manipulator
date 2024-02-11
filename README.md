@@ -10,6 +10,7 @@
   - [SCARA (PRR Variant)](#-scara-prr-variant-)
   - [Cartesian Manipulator (On Ceiling)](#-cartesian-manipulator-in-ceiling--1)
 - [Group Members](#group-members)
+- [MATLAB Scripts](https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/tree/main/MATLAB%20Scripts)
 <br>
 
 <h1 align="center"> KINEMATIC DIAGRAM AND PARAMETRIC TABLE </h1>
