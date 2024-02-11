@@ -29,6 +29,7 @@
   <h1 align="center"> Figure 1.2 </h1>
 </p>
 <br>
+<br>
 
 <h1 align="center"> Cartesian Manipulator in Ceiling </h1> 
 <p align="center">
