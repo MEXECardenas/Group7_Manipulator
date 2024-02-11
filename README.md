@@ -59,6 +59,23 @@
 <br>
 <br>
 
+<div>
+  <p align="center">
+  <img src="image_url" alt="Image" style="width: 45%; float: left;">
+  <img src="gif_url" alt="GIF" style="width: 45%; float: right;">
+  </p>
+</div>
+
+
+<div>
+  <p align="center">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/938fc120-758a-42f4-88e9-f2113a0e898b alt=Cartesian Manipulator in Ceiling style="width: 45%; float: left;">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/e2199d12-6189-4e14-b84e-843e7f93568b alt=giphy-2021-gifs-and-clips-animation-itsnicethat-02 style="width: 100%; float: right;">
+  </p>
+</div>
+
+
+
 
 ### Group Members:
 - Alojado, Stephen Gabriel S.
