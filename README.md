@@ -12,7 +12,7 @@
 - [Group Members](#group-members)
 - [MATLAB Scripts](https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/tree/main/MATLAB%20Scripts)
   - [Spherical Manipulator (Modern Variant)](https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/main/MATLAB%20Scripts/Group%207%20-%20Spherical%20Manipulator%20(Modern%20Variant).m)
-  - [SCARA (PRR Variant)](https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/main/MATLAB%20Scripts/Group%207%20-%20SCARA%20Manipulator%20(PRR%20Variant).m)
+  - [SCARA Manipulator (PRR Variant)](https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/main/MATLAB%20Scripts/Group%207%20-%20SCARA%20Manipulator%20(PRR%20Variant).m)
   - [Cartesian Manipulator (On Ceiling)](https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/main/MATLAB%20Scripts/Group%207%20-%20Cartesian%20Manipulator%20(On%20Ceiling).m)
 <br>
 
@@ -26,7 +26,7 @@
 <br>
 <br>
 
-<h1 align="center"> SCARA (PRR Variant) </h1> 
+<h1 align="center"> SCARA Manipulator (PRR Variant) </h1> 
 <p align="center">
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157594468/f6398393-2c5c-41db-81b3-17a74e36a0b1 alt=SCARA - PRR Variant (Kinematic Diagram and Parametric Table) width="800"/>
 </p>
