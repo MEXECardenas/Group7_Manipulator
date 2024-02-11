@@ -80,8 +80,8 @@
 
 
 ### Group Members:
-- Alojado, Stephen Gabriel S.
-- Apostol, Jan Benedict D.
-- Cardenas, Sofia Bianca J.
-- Catapang, Jamil Darrius S.
-- Umali, Ariane Mae D.
+- Alojado, Stephen Gabriel S.   
+- Apostol, Jan Benedict D.      
+- Cardenas, Sofia Bianca J.     
+- Catapang, Jamil Darrius S.    
+- Umali, Ariane Mae D.          
