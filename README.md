@@ -54,15 +54,17 @@
 <br>
 <br>
 
-<h1 align="center"> SCARA (PRR Variant) </h1> 
+
+<h1 align="center"> SCARA - PRR Variant </h1> 
 <div>
   <p align="center">
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157594468/208e73c4-a255-4518-8098-c5f1b72f0035 alt=SCARA-PRR-Variant style="width: 45%; float: left;">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/0e7b1edcb2eec78026c122a3413ebaa13a539a5a/Kinematic%20Diagrams%20with%20D-H%20Parametric%20Tables/SCARA%20Manipulator%20(PRR%20Variant).gif alt=giphy-2021-gifs-and-clips-animation-itsnicethat-02 style="width: 100%; float: right;">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/blob/f978a4dece24ea070d39f546fdafdee768ff78d0/Kinematic%20Diagrams%20with%20D-H%20Parametric%20Tables/SCARA%20Manipulator%20(PRR%20Variant).gif alt=Spherical-Manipulator-(Modern-Variant) style="width: 100%; float: right;">
   </p>
 </div>
 <br>
 <br>
+
 
 <h1 align="center"> Cartesian Manipulator (in Ceiling) </h1> 
 <div>
