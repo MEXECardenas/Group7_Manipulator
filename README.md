@@ -3,11 +3,11 @@
 ## Table of Contents
 - [KINEMATIC DIAGRAM AND PARAMETRIC TABLE](#-kinematic-diagram-and-parametric-table-)
   - [Spherical Manipulator (Modern Variant)](#-spherical-manipulator---modern-variant-)
-  - [SCARA (PRR Variant)](#-scara---prr-variant-)
+  - [SCARA Manipulator (PRR Variant)](#-scara---prr-variant-)
   - [Cartesian Manipulator (On Ceiling)](#-cartesian-manipulator-in-ceiling-)
 - [MECHANICAL MANIPULATOR FIGURES](#-mechanical-manipulator-figures-)
   - [Spherical Manipulator (Modern Variant)](#-spherical-manipulator-modern-variant-)
-  - [SCARA (PRR Variant)](#-scara-prr-variant-)
+  - [SCARA Manipulator (PRR Variant)](#-scara-prr-variant-)
   - [Cartesian Manipulator (On Ceiling)](#-cartesian-manipulator-in-ceiling--1)
 - [Group Members](#group-members)
 - [MATLAB Scripts](https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/tree/main/MATLAB%20Scripts)
