@@ -45,7 +45,6 @@
 <h1 align="center"> MECHANICAL MANIPULATOR FIGURES </h1>
 <hr>
 <br>
-<br>
 
 <h1 align="center"> Spherical Manipulator (Modern Variant) </h1> 
 <div>
