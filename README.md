@@ -55,8 +55,8 @@
 <h1 align="center"> SCARA (PRR Variant) </h1> 
 <div>
   <p align="center">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157594468/208e73c4-a255-4518-8098-c5f1b72f0035 alt=SCARA-PRR-Variant style="width: 40%; float: left;">
-  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157594468/e08a8baf-59d6-4664-aacf-3df9316757fc) alt=SCARA-Manipulator-(PRR-Variant) style="width: 90%; float: right;">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157594468/208e73c4-a255-4518-8098-c5f1b72f0035 alt=SCARA-PRR-Variant style="height: 500px; float: left;">
+  <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157594468/e08a8baf-59d6-4664-aacf-3df9316757fc) alt=SCARA-Manipulator-(PRR-Variant) style="height: 500px; float: right;">
   </p>
 </div>
 <hr>
