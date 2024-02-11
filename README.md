@@ -47,6 +47,7 @@
 <h1 align="center"> Spherical Manipulator (Modern Variant) </h1> 
 <p align="center">
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/b9973401-9521-4823-9237-088b0f42252b alt=Spherical Manipulator - Modern Variant width="500"/>
+  <h1 align="center"> Figure 2.1 </h1>
 </p>
 <br>
 <br>
@@ -54,12 +55,14 @@
 <h1 align="center"> SCARA (PRR Variant) </h1> 
 <p align="center">
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/0be1d15e-2e4b-4930-a3d4-eace9366b656 alt=SCARA - PRR Variant width="500"/>
+   <h1 align="center"> Figure 2.2 </h1>
 </p>
 <br>
 
 <h1 align="center"> Cartesian Manipulator (in Ceiling) </h1> 
 <p align="center">
   <img src=https://github.com/MEXECardenas/SPHERICAL_G7_Assignment_2024/assets/157677365/938fc120-758a-42f4-88e9-f2113a0e898b alt=Cartesian Manipulator in Ceiling width="500"/>
+   <h1 align="center"> Figure 2.3 </h1>
 </p>
 <hr>
 <br>
