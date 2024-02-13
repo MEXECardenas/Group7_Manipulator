@@ -1,4 +1,4 @@
-# SPHERICAL_G7_Assignment_2024
+# SPHERICAL Group 7 Assignment 2024
 
 ## Table of Contents
 - [KINEMATIC DIAGRAM AND PARAMETRIC TABLE](#-kinematic-diagram-and-parametric-table-)
